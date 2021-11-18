@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSP.Lab5.Presentation", "DSP.Lab5.Presentation\DSP.Lab5.Presentation.csproj", "{F0B14EB8-8327-4073-B8EE-16EB020FBB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSP.Lab5.Api", "DSP.Lab5.Api\DSP.Lab5.Api.csproj", "{B182FADC-C689-4BA5-9A2A-A147109CF7C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0B14EB8-8327-4073-B8EE-16EB020FBB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B14EB8-8327-4073-B8EE-16EB020FBB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B14EB8-8327-4073-B8EE-16EB020FBB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B14EB8-8327-4073-B8EE-16EB020FBB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B182FADC-C689-4BA5-9A2A-A147109CF7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B182FADC-C689-4BA5-9A2A-A147109CF7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B182FADC-C689-4BA5-9A2A-A147109CF7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B182FADC-C689-4BA5-9A2A-A147109CF7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F387929-13EA-4636-B866-A628B294025A}
+	EndGlobalSection
+EndGlobal
